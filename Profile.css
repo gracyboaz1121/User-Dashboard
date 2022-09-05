@@ -1,0 +1,77 @@
+body{
+	background-image: linear-gradient(to right, #c6ffdd, #fbd786);
+	
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  margin-left:200px;
+  margin-top:100px;
+  background-color:brown;
+  float:center;
+}
+h2{
+	font-size:38px;
+}
+
+.simple{
+	width:100px;
+	height:200px;
+	float:right;
+	width:700px;
+	height:400px;
+	margin-top:100px;
+	padding-top:40px;
+	
+}
+
+.simple p{
+	font-weight:bold;
+}
+.title {
+  color: grey;
+  font-size: 18px;
+}
+#title{
+	font-size:20px;
+	font-weight:bold;
+	color:white;
+}
+#getinfo{
+	font-size:30px;
+	font-weight:bold;
+	color:white;
+}
+#gender{
+	font-weight:bold;
+	color:white;
+}
+#button{
+	font-weight:bold;
+	color:white;
+}
+
+#log{
+	width:150px;
+	height:130px;
+}
+button {
+        display: inline-block;
+        background-color:brown;
+		font-weight:bold;
+        border-radius: 10px;
+        border: 2px double #cccccc;
+        color: #eeeeee;
+        text-align: center;
+        font-size: 28px;
+        padding-top: 5px;
+        width: 160px;
+		height:50px;
+        transition: all 0.5s;
+        cursor: pointer;
+        margin: 5px;
+		float:right;
+      }
